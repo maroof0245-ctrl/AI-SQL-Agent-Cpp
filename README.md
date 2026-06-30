@@ -26,7 +26,7 @@ An autonomous C++ system agent that leverages a frontier LLM API (Gemini) to tra
 ```text
 What would you like your database to do?
 > Show me all columns from the students table
-
+```
 ### 2. Autonomous Core Pipeline Handling
 ```text
 [INFO] Contacting Gemini AI Engine...
@@ -37,7 +37,7 @@ SELECT * FROM students;
 -----------------------------------------
 [INFO] Sending query to local MySQL...
 [SUCCESS] Query processed cleanly!
-
+```
 ### 3. Dynamic Metadata Render Display
 ```text
 [DATABASE RECORD DATASET]
