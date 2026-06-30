@@ -48,3 +48,9 @@ SELECT * FROM students;
 | 2              | Bob            | B              |
 | 3              | Charlie        | A              |
 +----------------+----------------+----------------+
+```
+
+## 🔧 Local Workspace Setup
+* **Ensure your local environment is configured with the following dependencies linked in your build path:
+### 1. MySQL Server 8.0+ running locally on port `33060`.
+### 2. A valid Gemini API Key.
